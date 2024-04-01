@@ -1,0 +1,177 @@
+--------------------------------------
+### Working directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE
+--------------------------------------
+
+--------------------------------------
+--------------------------------------
+### Aircraft Flight Loads ###
+--------------------------------------
+--------------------------------------
+
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\initialization
+
+Certification used from file.
+Input File: Tecnam_P92.xlsx
+
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\chord_calc
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\calc_aero_model
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving FullLiftModelInterpolation.pdf in: 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving FullDragModelInterpolation.pdf in: 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving FullPitchingMomModelInterpolation.pdf in: 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\schrenk
+ ++++ CHECK ++++ 
+ Cl = Cl(y) 
+ 1.000000-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+-----------------
+### Flight Envelope - per CS - VLA ###
+--------------------------------------
+--------------------------------------
+### Standard atmosphere - Sea Level ###
+--------------------------------------
+Temperature [K]: 288.1500
+Speed of sound [m/s]: 340.2941
+Pressure [Pa]: 101325.0000
+Density [kg/m^3]: 1.2250
+--------------------------------------
+--------------------------------------
+--------------------------------------
+### Standard atmosphere - Operative Ceiling ###
+--------------------------------------
+Temperature [K]: 275.1500
+Speed of sound [m/s]: 332.5293
+Pressure [Pa]: 79495.2174
+Density [kg/m^3]: 1.0065
+--------------------------------------
+--------------------------------------
+--------------------------------------
+### Standard atmosphere - Theoretical Ceiling ###
+--------------------------------------
+Temperature [K]: 262.1500
+Speed of sound [m/s]: 324.5787
+Pressure [Pa]: 61640.2383
+Density [kg/m^3]: 0.8191
+--------------------------------------
+ WARNING: VH not available! 
+ WARNING: VH not available! 
+ WARNING: VH not available! 
+ WARNING: VH not available! 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+ 
+ Check solution: Inverted flight conditions 
+ WARNING: There no solution in the real numbers. 
+ Manoeuvring flight speed in inverted flight will not change
+ 
+ Check solution: Inverted flight conditions 
+ WARNING: There no solution in the real numbers. 
+ Manoeuvring flight speed in inverted flight will not change
+ 
+ Check solution: Inverted flight conditions 
+ WARNING: There no solution in the real numbers. 
+ Manoeuvring flight speed in inverted flight will not change
+ 
+ Check solution: Inverted flight conditions 
+ WARNING: There no solution in the real numbers. 
+ Manoeuvring flight speed in inverted flight will not change
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\Output
+-----------------
+### Current directory ###
+C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message
+again.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving ClInterpolation3dplot.pdf in: 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message
+again.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving CdInterpolation3dplot.pdf in: 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message
+again.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Saving CmInterpolation3dplot.pdf in: 
+<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\csvla\CalcInterpDistrLiftDragPitchMom.m',915,1)">915 </a>movefile CmInterpolation3dplot.png Output
+Int_Cm_distr = [Interpolated_cmSinv, Interpolated_cmG, Interpolated_cmE, Interpolated_cmF, ...
+                Interpolated_cmD   , Interpolated_cmC, Interpolated_cmS, Interpolated_cmA];
+Interpolated_cm = interp2(ALFAi, Yi, Int_Cm_distr, ALFAi, Yi,  'spline');
+Wing_Body_Pitching_Coeff_Distribution = cm_interpolation_graph(Int_Cm_distr, Interpolated_cm, Yi, ALFAi);
+internal.matlab.datatoolsservices.VariableUtils.saveWorkspace
+[Warning: An error occurred while running the atExit function for the MEX-file
+C:\Program Files\MATLAB\R2023b\toolbox\symbolic\symbolic\mupadmex.mexw64.
+However, the MEX-file was cleared from memory.] 
