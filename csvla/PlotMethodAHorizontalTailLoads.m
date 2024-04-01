@@ -1,0 +1,44 @@
+
+%% PLOT RESULTS - METHOD A 
+% PlotMethodAHorizontalTailLoads
+
+% INITIALIZATION
+xcg_bar_envelope     = Aircraft.Geometry.General.xcg_bar_envelope.value;
+TotalLoad_pitch_down = Aircraft.Certification.Regulation.SubpartC.HorizontalTailLoads.Method_a.pitch_down.TotalLoad.value;
+TotalLoad_pitch_up   = Aircraft.Certification.Regulation.SubpartC.HorizontalTailLoads.Method_a.pitch_up.TotalLoad.value;
+
+% Number of figures already opened
+h_figure =  findobj('type','figure');
+n_figure = h_figure(1,1).Number + 1;
+
+%% METHOD B - PITCH UP 
+
+figure(n_figure)
+
+hold on; grid on; grid minor;
+
+plot(xcg_bar_envelope, TotalLoad_pitch_up, '.r', 'MarkerSize', 18)
+
+ylim padded 
+xlim padded 
+
+xlabel("Non dimensional C.G. position - $x_{cg}$ ($MAC\,\%$)"           , "Interpreter", "latex")
+ylabel("Total loads - $L_{ht}$ (daN)"                                   , "Interpreter", "latex")
+title("Method A - Pitch up"                                             , "Interpreter", "latex")
+
+n_figure = n_figure + 1;
+    
+%% METHOD B - PITCH DOWN
+
+figure(n_figure)
+
+hold on; grid on; grid minor;
+
+plot(xcg_bar_envelope, TotalLoad_pitch_down, '.r', 'MarkerSize', 18)
+
+ylim padded 
+xlim padded 
+
+xlabel("Non dimensional C.G. position - $x_{cg}$ ($MAC\,\%$)"           , "Interpreter", "latex")
+ylabel("Total loads - $L_{ht}$ (daN)"                                   , "Interpreter", "latex")
+title("Method A - Pitch down"                                           , "Interpreter", "latex")   

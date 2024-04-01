@@ -1,0 +1,615 @@
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ImportResults', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m', 9)" style="font-weight:bold">ImportResults</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)">line 9</a>)
+polar     = importdata([ac.name '_DegenGeom.polar']);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)">line 712</a>)
+res = ImportResults(ac);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)
+        Main_OPENVsp
+} 
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)
+main_prog
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ImportResults', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m', 9)" style="font-weight:bold">ImportResults</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)">line 9</a>)
+polar     = importdata([ac.name '_DegenGeom.polar']);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)">line 712</a>)
+res = ImportResults(ac);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)
+        Main_OPENVsp
+} 
+main_prog
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ImportResults', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m', 9)" style="font-weight:bold">ImportResults</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)">line 9</a>)
+polar     = importdata([ac.name '_DegenGeom.polar']);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)">line 712</a>)
+res = ImportResults(ac);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)
+        Main_OPENVsp
+} 
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)
+matlab.internal.language.introspective.errorDocCallback('importdata')
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)
+clear all 
+close all 
+clc
+main_prog
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ImportResults', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m', 9)" style="font-weight:bold">ImportResults</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)">line 9</a>)
+polar     = importdata([ac.name '_DegenGeom.polar']);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)">line 712</a>)
+res = ImportResults(ac);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)
+        Main_OPENVsp
+} 
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)
+main_prog
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ImportResults', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m', 9)" style="font-weight:bold">ImportResults</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)">line 9</a>)
+polar     = importdata([ac.name '_DegenGeom.polar']);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',712,0)">line 712</a>)
+res = ImportResults(ac);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)
+        Main_OPENVsp
+} 
+matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)
+matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 712)
+ opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\ImportResults.m',9,0)
+help importdata
+ <strong>importdata</strong> - Load data from file
+    This MATLAB function loads data into array A.
+
+    Syntax
+      A = <strong>importdata</strong>(filename)
+      A = <strong>importdata</strong>('-pastespecial')
+      A = <strong>importdata</strong>(___,delimiterIn)
+      A = <strong>importdata</strong>(___,delimiterIn,headerlinesIn)
+      [A,delimiterOut,headerlinesOut] = <strong>importdata</strong>(___)
+
+    Input Arguments
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-filename')">filename</a> - Name and extension of file to import
+        character vector | string scalar
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-delimiterIn')">delimiterIn</a> - Column separator character
+        character vector | string scalar
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-headerlinesIn')">headerlinesIn</a> - Number of text header lines in ASCII file
+        nonnegative scalar integer
+
+    Output Arguments
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-A')">A</a> - Data from the file
+        matrix | multidimensional array | scalar structure array
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-delimiterOut')">delimiterOut</a> - Detected column separator in the input ASCII file
+        character vector
+      <a href="matlab:web('C:\Program Files\MATLAB\R2023b\help\matlab\ref/importdata.html#btk7vi1-1-headerlinesOut')">headerlinesOut</a> - Detected number of text header lines in the input
+      ASCII file
+        integer
+
+    Examples
+      <a href="matlab:openExample('matlab/ImportandDisplayanImageExample')">Import and Display an Image</a>
+
+    See also <a href="matlab:help readmatrix -displayBanner">readmatrix</a>, <a href="matlab:help readcell -displayBanner">readcell</a>, <a href="matlab:help readvars -displayBanner">readvars</a>, <a href="matlab:help load -displayBanner">load</a>, <a href="matlab:help save -displayBanner">save</a>, <a href="matlab:help textscan -displayBanner">textscan</a>, <a href="matlab:help imread -displayBanner">imread</a>,
+      <a href="matlab:help readtable -displayBanner">readtable</a>, <a href="matlab:help('Import Tool', '-displayBanner')">Import Tool</a>
+
+    Introduced in MATLAB before R2006a
+    <a href="matlab:doc importdata">Documentation for importdata</a>
+
+ac.name
+
+ans =
+
+    'TecnamP92'
+
+[ac.name '_DegenGeom.polar']
+
+ans =
+
+    'TecnamP92_DegenGeom.polar'
+
+TecnamP92_DegenGeom.polar
+{Unable to resolve the name 'TecnamP92_DegenGeom.polar'.
+} 
+polar.data
+{Dot indexing into the result of a function call requires parentheses after the function name. The supported syntax is 'polar().data'.
+} 
+polar
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polar')" style="font-weight:bold">polar</a>
+Not enough input arguments.
+} 
+importdata([ac.name '_DegenGeom.polar'])
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('importdata')" style="font-weight:bold">importdata</a>
+Unable to open file.
+} 
+uiopen('C:\Users\claum\OneDrive\Desktop\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',1)
+main_prog
+##############################################
+##############################################
+ 
+### aircraft name is TecnamP92
+ 
+ 
+ 
+### aircraft configurations to be analyzed is WB
+ 
+ 
+ 
+### aircraft movables to be analyzed is none
+ 
+ 
+ 
+### creating vspscript...
+ 
+ 
+ 
+ 
+ 
+### degenerating geometry and calculating mass properties...
+"vspscript.exe" non è riconosciuto come comando interno o esterno, 
+ un programma eseguibile o un file batch. 
+
+ans =
+
+     1
+
+ 
+ 
+<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',595,1)">595 </a>set.h                        = openvsp_altitude;
+if system_dependent('IsDebugMode')==1, dbcont; end
+ 
+ 
+ 
+### creating vspaero...
+ 
+ 
+ 
+ 
+ 
+### running solver...
+ 
+ 
+VSPAERO v.6.0.0 --- Compiled on: Nov  9 2019 at 19:19:15 PST  
+ 
+ 
+ 
+ 
+Initializing OPENMP for 4 threads  
+NumberOfThreads_: 4  
+Mach: 0.055834  
+AoA: -10.000000  
+ReCref_: 1000000.000000  
+Sref            = 13.328800  
+Cref            = 1.400000  
+Bref            = 9.523800  
+X_cg            = 1.967000  
+Y_cg            = 0.000000  
+Z_cg            = 0.000000  
+Mach            = 0.055834  
+AoA             = -10.000000, -8.000000, -6.000000, -4.000000, -2.000000, 0.000000, 2.000000, 4.000000, 6.000000, 8.000000, 10.000000, 12.000000, 14.000000, 16.000000, 18.000000, 20.000000  
+Beta            = 0.000000  
+Vinf            = 19.000000  
+Vref            = 19.000000  
+Rho             = 1.225000  
+ReCref          = 1000000.000000  
+ClMax           = -1.000000  
+MaxTurningAngle = -1.000000  
+Symmetry        = Y   
+FarDist         = -1.000000  
+NumWakeNodes    = -1   
+WakeIters       = 3   
+NumberOfRotors: 0  
+Could not load TecnamP92_DegenGeom VSP Degen Geometry or CART3D Tri file...  
+[Warning: VSPaero failed to execute] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Main_OPENVsp', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m', 703)" style="font-weight:bold">Main_OPENVsp</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\utilities\OpenVSP\Main_OPENVsp.m',703,0)">line 703</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_prog', 'C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m', 182)" style="font-weight:bold">main_prog</a> (<a href="matlab: opentoline('C:\Users\claum\OneDrive\Documenti\TesiMagistraleCopiaMATLAB\NUOVOINPUT_TESI_MAGISTRALE\main_prog.m',182,0)">line 182</a>)] 
+length(-10:2:20)
+
+ans =
+
+    16
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_prog
