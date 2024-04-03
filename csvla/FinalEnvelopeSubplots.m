@@ -12,6 +12,16 @@ fprintf('### Current directory ###');
 fprintf('\n');
 fprintf('%s\n', dir);
 
+%% Figure Showcase Variable 
+% FigureShowcase == 1 --> All images will show up during execution
+% FigureShowcase == 0 --> All images will be suppressed during execution
+% FigureShowcase = 0; 
+% if FigureShowcase == 1
+%     set(groot,'DefaultFigureVisible','on');
+% elseif FigureShowcase == 0
+%     set(groot,'DefaultFigureVisible','off')
+% end
+
 %% SUBPLOT
 if n_Mass == 2 
         h1 = openfig('FinalEnvelope1.fig','reuse'); % open figure
@@ -107,6 +117,7 @@ elseif n_Mass == 4
         close(h2);
         close(h3);
         close(h4);
+
 elseif n_Mass == 6
         h1 = openfig('FinalEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure
@@ -196,6 +207,7 @@ elseif n_Mass == 6
         close(h4);
         close(h5);
         close(h6);
+
 elseif n_Mass == 8
         h1 = openfig('FinalEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure
@@ -313,6 +325,7 @@ elseif n_Mass == 8
         close(h6);
         close(h7);
         close(h8);
+
 elseif n_Mass == 10
         h1 = openfig('FinalEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure

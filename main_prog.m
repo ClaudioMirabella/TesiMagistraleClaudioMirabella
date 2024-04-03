@@ -4,12 +4,14 @@ clear all; close all; clc;
 %  struttura 'Aircraft', come velivolo di prova è stato selezionato un
 %  sistema unmanned da certificare sotto la norma CS-VLA.
 
+%% Checking log file existence
 % Log command window output. Avoid appending data to existing file.
 if exist('CMFlightLoads.txt','file')
     diary OFF
     delete CMFlightLoads.txt
 end
 diary CMFlightLoads.txt
+
 %% STORING THE WORKING DIRECTORY 
 dir = pwd;
 fprintf("--------------------------------------");

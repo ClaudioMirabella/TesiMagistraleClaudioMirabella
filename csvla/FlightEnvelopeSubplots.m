@@ -9,7 +9,7 @@ fprintf('-----------------');
 fprintf('\n');
 fprintf('### Current directory ###');
 fprintf('\n');
-fprintf('%s\n', dir);
+fprintf('%s\n', dir);          
 
 %% SUBPLOTS
 if n_Mass == 2 
@@ -45,6 +45,7 @@ if n_Mass == 2
         copyobj(fig2,s2);
         close(h1);
         close(h2);
+
 elseif n_Mass == 4 
         h1 = openfig('FlightEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure
@@ -195,6 +196,7 @@ elseif n_Mass == 6
         close(h4);
         close(h5);
         close(h6);
+
 elseif n_Mass == 8
         h1 = openfig('FlightEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure
@@ -312,6 +314,7 @@ elseif n_Mass == 8
         close(h6);
         close(h7);
         close(h8);
+
 elseif n_Mass == 10
         h1 = openfig('FlightEnvelope1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure

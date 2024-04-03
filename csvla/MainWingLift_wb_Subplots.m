@@ -14,6 +14,17 @@ fprintf('%s\n', dir);
 
 %% SUBPLOT
 if n_Mass == 2 
+
+    % Figure Showcase Variable 
+    % FigureShowcase == 1 --> All images will show up during execution
+    % FigureShowcase == 0 --> All images will be suppressed during execution
+    FigureShowcase = 0; 
+    if FigureShowcase == 1
+        set(groot,'DefaultFigureVisible','on');
+    elseif FigureShowcase == 0
+        set(groot,'DefaultFigureVisible','off')
+    end
+
         h1 = openfig('WingBodyLift1.fig','reuse'); % open figure
         ax1 = gca; % get handle to axes of figure
 

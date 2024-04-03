@@ -38,6 +38,7 @@ function Aircraft = ApplyRegulation(Aircraft)
             fprintf('### Flight Envelope - per CS - VLA ###');
             fprintf('\n');
 
+            %% Starting calling external programs/functions
             % WING WEIGHT CALCULATIONS
             CalcWingWeight
             

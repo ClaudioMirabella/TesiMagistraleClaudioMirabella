@@ -96,6 +96,7 @@ for i = 1:n_Mass
                 if abs(min(nneg_cruise_sea_level(:,i))) > abs(nmin)
                     
                     name_figure    = strcat('WingBodyLift', num2str(n_final_env));
+
                     figure(n_figure);
                     
                     plot(V_from0toS_inv(:,i), L_wb_from0toS_inv(:,i), '-r', 'LineWidth', 1)
@@ -142,6 +143,7 @@ for i = 1:n_Mass
         case "Case 1" 
             
                 name_figure    = strcat('WingBodyLift', num2str(n_final_env));
+
                 figure(n_figure);
 
                 plot(V_from0toS_inv(:,i), L_wb_from0toS_inv(:,i), '-r', 'LineWidth', 1)

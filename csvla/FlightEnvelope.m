@@ -11,6 +11,12 @@ function FlightEnvelope = FlightEnvelope(n_from0toS, n_fromStoA, n_fromAtoC, n_f
 %   Flight envelope diagram.
 
 FlightEnvelope = figure('Name', 'Flight envelope');
+figureShowcase = 0;
+if figureShowcase == 0
+    set(FlightEnvelope, 'Visible', 'off')
+elseif figureShowcase == 1
+    set(FlightEnvelope, 'Visible', 'on')
+end
 hold on; grid on; grid minor; 
 ylim padded 
 xlim padded 
