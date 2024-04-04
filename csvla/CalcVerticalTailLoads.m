@@ -847,6 +847,8 @@ switch (empennage_flag)
                 Total_force_vc(i) = Total_force_vt_case_a3_vc(i);
             end
 
+            fprintf(" Total Lateral Force - VC = %8.4f", Total_force_vc(i))
+
             % VC - MOMENTS
             if (abs(Total_mom_vt_case1_vc(i)) >= abs(Total_mom_vt_case2_vc(i))) && (abs(Total_mom_vt_case1_vc(i)) >= abs(Total_mom_vt_case3_vc(i)))
                 Total_moment_vc(i) = Total_mom_vt_case1_vc(i);
@@ -855,6 +857,8 @@ switch (empennage_flag)
             elseif (abs(Total_mom_vt_case3_vc(i)) >= abs(Total_mom_vt_case1_vc(i))) && (abs(Total_mom_vt_case3_vc(i)) >= abs(Total_mom_vt_case2_vc(i)))
                 Total_moment_vc(i) = Total_mom_vt_case3_vc(i);
             end
+
+            fprintf(" Total Moment - VC = %8.4f", Total_moment_vc(i))
     
             % VD - LATERAL FORCES
             if (abs(Total_force_vt_case_a1_vd(i)) >= abs(Total_force_vt_case_a2_vd(i))) && (abs(Total_force_vt_case_a1_vd(i)) >= abs(Total_force_vt_case_a3_vd(i)))
@@ -864,6 +868,8 @@ switch (empennage_flag)
             elseif (abs(Total_force_vt_case_a3_vd(i)) >= abs(Total_force_vt_case_a1_vd(i))) && (abs(Total_force_vt_case_a3_vd(i)) >= abs(Total_force_vt_case_a2_vd(i)))
                 Total_force_vd(i) = Total_force_vt_case_a3_vd(i);
             end
+
+            fprintf(" Total Lateral Force - VD = %8.4f", Total_force_vd(i))
     
             % VD - MOMENTS
             if (abs(Total_mom_vt_case1_vd(i)) >= abs(Total_mom_vt_case2_vd(i))) && (abs(Total_mom_vt_case1_vd(i)) >= abs(Total_mom_vt_case3_vd(i)))
@@ -873,6 +879,8 @@ switch (empennage_flag)
             elseif (abs(Total_mom_vt_case3_vd(i)) >= abs(Total_mom_vt_case1_vd(i))) && (abs(Total_mom_vt_case3_vd(i)) >= abs(Total_mom_vt_case2_vd(i)))
                 Total_moment_vd(i) = Total_mom_vt_case3_vd(i);
             end
+
+            fprintf(" Total Moment - VD = %8.4f", Total_moment_vd(i))
 
         end
         % STORE INSIDE THE STRUCT VARIABLE
@@ -885,6 +893,14 @@ switch (empennage_flag)
         Aircraft.Certification.Regulation.SubpartC.VerticalTailLoads.Critical_conditions.vd.Total_moment.value           = Total_moment_vd;
         Aircraft.Certification.Regulation.SubpartC.VerticalTailLoads.Critical_conditions.vd.Total_moment.Attributes.unit = "daN * m";
 end
+
+%% ENDING CalcVerticalTailLoads
+disp(" ");
+disp(" ++++ ENDING VERTICAL TAIL LOADS CALCULATION ++++ ");
+disp(" ");
+disp(" ---------------------------------------------------------------- ");
+disp(" ++++ CS - VLA 441 - VERTICAL TAIL LOADS - MANOEUVRING LOADS ++++ ");
+disp(" ---------------------------------------------------------------- ");
 
 %% PLOT RESULTS 
 PlotVerticalTailResults

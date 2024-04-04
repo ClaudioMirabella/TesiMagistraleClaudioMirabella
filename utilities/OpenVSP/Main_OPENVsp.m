@@ -63,7 +63,7 @@ ac.wing.type        = 'WING';                  % OpenVSP component type
 % both type and shape of the airfoil may be changed and a custom one
 % imported.
 
-ac.wing.airfoil     = 'XS_FIVE_DIGIT';         % OpenVSP airfoil standard type: , ,...see https://openvsp.org/api_docs/latest/group___enumerations.html,
+ac.wing.airfoil     = 'XS_FILE_AIRFOIL';         % OpenVSP airfoil standard type: , ,...see https://openvsp.org/api_docs/latest/group___enumerations.html,
 %   'XS_FILE_AIRFOIL' for custom file
 %   'XS_FOUR_SERIES'
 %   'XS_FIVE_DIGIT'

@@ -93,6 +93,8 @@ C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\Re
 -----------------
 ### Current directory ###
 C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
  
  Check solution: Inverted flight conditions 
@@ -120,6 +122,8 @@ C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\Re
 -----------------
 ### Current directory ###
 C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
@@ -131,6 +135,8 @@ C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\Re
 -----------------
 ### Current directory ###
 C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
@@ -142,6 +148,8 @@ C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\Re
 -----------------
 ### Current directory ###
 C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
@@ -153,53 +161,55 @@ C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\Re
 -----------------
 ### Current directory ###
 C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving ClInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CdInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CmInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving ClInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CdInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CmInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving ClInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CdInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CmInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving ClInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CdInterpolation3dplot.pdf in: 
-[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better
-performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image'
+for better performance. <a href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 Saving CmInterpolation3dplot.pdf in: 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
@@ -355,257 +365,205 @@ Vector already in correct dimension
 Vector already in correct dimension
  
  ++++ SHEAR, BENDING, TORSION -PointA ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointC ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointD ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointSinverted ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointG ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointF ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointE ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointSstraight ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointA ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointC ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointD ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointSinverted ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointG ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointF ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
- 
- ++++ SHEAR, BENDING, TORSION -PointE ++++
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-
- Store files inside Output folder 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-Vector already in correct dimension
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
-[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: Exported image displays axes toolbar. To remove axes toolbar from image, export again.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointC ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointD ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointSinverted ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointG ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointF ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointE ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointSstraight ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointA ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointC ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointD ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointSinverted ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointG ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointF ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+ 
+ ++++ SHEAR, BENDING, TORSION -PointE ++++
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+
+ Store files inside Output folder 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
 [Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+Vector already in correct dimension
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+[Warning: 'ContentType' parameter is ignored when it is set to 'vector' for image output.] 
+<a href="matlab: opentoline('C:\Users\Mario Di Stasio\OneDrive - Università di Napoli Federico II\Desktop\RepositoryGitHubTesiMagistrale\TesiMagistraleClaudioMirabella\csvla\CalcVerticalTailLoads.m',165,1)">165 </a>disp(" ");
+if system_dependent('IsDebugMode')==1, dbcont; end
  
  ++++ STARTING VERTICAL TAIL LOADS CALCULATION ++++ 
  
  ---------------------------------------------------------------- 
  ++++ CS - VLA 441 - VERTICAL TAIL LOADS - MANOEUVRING LOADS ++++ 
  ---------------------------------------------------------------- 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is a graphics
-handshaking issue with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
-[Warning: Graphics timeout occurred. To share details of this issue with MathWorks technical support, please include that this is an unresponsive
-graphics client with your service request.] 
+ 
+ ++++ ENDING VERTICAL TAIL LOADS CALCULATION ++++ 
+ 
+ ---------------------------------------------------------------- 
+ ++++ CS - VLA 441 - VERTICAL TAIL LOADS - MANOEUVRING LOADS ++++ 
+ ---------------------------------------------------------------- 

@@ -134,22 +134,6 @@ SetParmVal(wing,"TECluster","WingGeom",0.15);
 
 Update(); 
 
-// fuselage 
-
-string fuselage = AddGeom("TransportFuse");
-
-SetGeomDrawType(fuselage, GEOM_DRAW_SHADE );
-
-SetParmVal(fuselage,"Length","Design",6.3);
-SetParmVal(fuselage,"Diameter","Design",1.4);
-
-Update(); 
-
-SetParmVal(fuselage,"Tess_U","Shape",30);
-SetParmVal(fuselage,"Tess_W","Shape",15);
-
-Update(); 
-
 SetComputationFileName(DEGEN_GEOM_CSV_TYPE,"TecnamP92_DegenGeom.csv");
 ComputeDegenGeom(SET_ALL,DEGEN_GEOM_CSV_TYPE);
 
