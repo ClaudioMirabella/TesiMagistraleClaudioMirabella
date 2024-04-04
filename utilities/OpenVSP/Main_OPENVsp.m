@@ -180,7 +180,7 @@ ac.wing.mov.tessellation = [10; 10];
 % ac.wing.mov.tessellation = 10;
 
 %% Mac calculator
-[ac.wing.mac,ac.wing.macxloc] = FindMac(ac.wing);
+[ac.wing.mac,ac.wing.macxloc] = FindMac1(ac.wing);
 															  %further check for rectangula wing with multiple panles PDV-22
 if isfield(Aircraft.Geometry.Wing,'type') == 1
     if Aircraft.Geometry.Wing.type.value == 'Rectangular'
